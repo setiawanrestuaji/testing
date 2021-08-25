@@ -9,3 +9,5 @@ const getData = () => {
 }
 const data = ['hallo']
 
+console.log('testerrrr')
+
