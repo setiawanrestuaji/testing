@@ -5,3 +5,5 @@ console.log("penambahan fitur");
 
 console.log("Perbaikan fitur")
 
+const data = ['hallo']
+
